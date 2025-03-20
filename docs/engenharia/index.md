@@ -10,7 +10,7 @@ Bem-vindo à documentação de engenharia do Lexter. Esta seção contém inform
 
 A documentação está organizada por projetos, cada um com sua própria seção dedicada. Atualmente, temos os seguintes projetos documentados:
 
-- [Lexter Core](./01-lexter-core/01-introducao.md) - O núcleo da plataforma Lexter
+- [Lexter Core](./01-lexter-core/01-visao-geral.md) - O núcleo da plataforma Lexter
 
 ## Como Usar Esta Documentação
 
